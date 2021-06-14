@@ -1,3 +1,5 @@
 info on file 2
 adding new aditional configuration
+
 addiond some another config
+change added directly on git
