@@ -1,1 +1,2 @@
 info on file 2
+adding new aditional configuration
